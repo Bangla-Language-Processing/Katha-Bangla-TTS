@@ -1,0 +1,70 @@
+ACKNOWLEDGEMENT
+---------------------------
+
+This work was made possible through the PAN Localization Project, (http://www.PANL10n.net) a grant from the International Development Research Center (IDRC), Ottawa, Canada, administered through the Center for Research in Urdu Language Processing, National University of Computer and Emerging Sciences, Pakistan. 
+
+The voice you hear on Bangla Text-to-Speech Synthesizer is that of Mohammad Alomgir.
+
+- We would like to thank Mohammad Alomgir for providing us with such a lucid, male voice.
+- We apologize for robotizing his manly natural voice to suit our selfish motives!
+
+Developers Team of Bangla Text-to-Speech Synthesis Voice 'Katha (Bangla TTS)':
+
+Firoj Alam	
+S. M. Murtoza Habib
+Mahmud Hossain (Diphone Labeling)
+Mr. Kamrul Hayder (Lexicon Development)
+Dr. Mumit Khan
+
+
+Katha (Bangla TTS) MSAPI Solution (Win32) developed by:
+
+Dr. Mumit Khan
+
+Special Thanks to:
+
+	Professor Mumit Khan, PhD - Head, Center for Research on Bangla Language Processing, Professor, Computer Science and Engineering, BRAC University. We would like to thank him for providing his leadership and access to academic thinking at BRAC University. In addition, over the years he has provided mentoring and coaching on the development of TTS.
+      
+	Dr. Sarmad Hussain (NUCES, Pakistan)- Associate Professor and Head of Center for Research in Urdu Language Processing. We would like to thank him on behalf of conducting training workshop on "Phonetics and Phonology for TTS" and supporting throughout the project.
+
+Asanka Wasala (Team lead-Sinhala TTS team)
+- For assisting us to solve various technical issues.
+
+
+Special thanks to Dr. Briony Williams and Dewi B Jones for their valuable suggestions.
+Developers Team of the Festival-MSAPI Bridge:
+	Dr. Briony Williams (University of Wales, Bangor)
+	Dewi B Jones (University of Wales, Bangor)
+	Dr. Rhys J Jones (University of Wales, Bangor) 
+
+Developers Team of the Festival Speech Synthesis System:
+	Alan W Black   (Carnegie Mellon University)
+	Rob Clark      (Edinburgh University)
+	Korin Richmond (Edinburgh University)
+	Paul Taylor 
+	Richard Caley
+	Heiga Zen      (Nagoya Institute of Technology)
+
+Flite-MSAPI
+David Huggins Daines
+
+Developer of WordTalk  
+	Rod Macaulay of TASSC in Aberdeen
+
+NECTEC, Bangkok, Thailand
+
+Sameer Ud Dowla Khan, UCLA
+
+praat
+Paul Boersma, Institute of Phonetic Sciences, University of Amsterdam 
+
+And other colleagues of the Center for Research on Bangla Language Processing (CRBLP), BRAC University
+
+Ms. Naira Khan
+Mr. Md. Nasimul Amin
+Ms. Dil Afroza Sultana
+Ms. Rabia Sultana Ummi
+Ms. Fahmina Huda
+and
+Other CRBLP team members
+
