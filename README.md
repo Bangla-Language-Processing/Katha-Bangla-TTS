@@ -4,6 +4,9 @@ It is the first generation Text to Speech System for Bangladeshi Bangla. It has 
 
 #### Detail steps to run the system is: Katha_Bangla_Text_To_Speech_V1/Readme.doc
 
+#### [Credits](https://github.com/firojalam/Katha-Bangla-TTS/wiki/Credits)
+
+
 #### Please cite the following papers if you are using any part of this system:
 
 ```bib
