@@ -2,9 +2,9 @@
 This project is copied from https://sourceforge.net/projects/blp/files/Katha_Bangla_TTS/ for update and adding patches.
 It is the first generation Text to Speech System for Bangladeshi Bangla. It has been developed using festival speech synthesis engine. The system is based on diphone technique.
 
-### Detail steps to run the system is: Katha_Bangla_Text_To_Speech_V1/Readme.doc
+#### Detail steps to run the system is: Katha_Bangla_Text_To_Speech_V1/Readme.doc
 
-### Please cite the following papers if you are using any part of this system:
+#### Please cite the following papers if you are using any part of this system:
 
 ```bib
 
