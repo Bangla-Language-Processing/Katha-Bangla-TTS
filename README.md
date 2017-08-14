@@ -15,7 +15,7 @@ Table of Contents
         * [Text Normalization](https://github.com/firojalam/Katha-Bangla-TTS/wiki/#text-normalization)
         * [Letter to Sound System/Lexicon](https://github.com/firojalam/Katha-Bangla-TTS/wiki/#letter-to-sound-system-lexicon)
         * [Intonation Modeling](https://github.com/firojalam/Katha-Bangla-TTS/wiki/#intonation-modeling)
-        * [Diphone database for TTS](https://github.com/firojalam/Katha-Bangla-TTS/wiki/#diphone-database-for-tts)        
+        * [Diphone Database for TTS](https://github.com/firojalam/Katha-Bangla-TTS/wiki/#diphone-database-for-tts)        
    * [Publications](https://github.com/firojalam/Katha-Bangla-TTS/wiki/Publications)
    * [Credits](https://github.com/firojalam/Katha-Bangla-TTS/wiki/Credits)
  
