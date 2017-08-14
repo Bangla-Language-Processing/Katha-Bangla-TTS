@@ -10,6 +10,12 @@ Table of Contents
 =================
 
    * [Home](https://github.com/firojalam/Katha-Bangla-TTS/wiki/)
+     * [Different modules of TTS project](https://github.com/firojalam/Katha-Bangla-TTS/wiki/#different-modules-sof-tts-project)
+        * [Phoneme Inventory](https://github.com/firojalam/Katha-Bangla-TTS/wiki/#phoneme-inventory)
+        * [Text Normalization](https://github.com/firojalam/Katha-Bangla-TTS/wiki/#text-normalization)
+        * [Letter to Sound System/Lexicon](https://github.com/firojalam/Katha-Bangla-TTS/wiki/#letter-to-sound-system-lexicon)
+        * [Intonation Modeling](https://github.com/firojalam/Katha-Bangla-TTS/wiki/#intonation-modeling)
+        * [Diphone database for TTS](https://github.com/firojalam/Katha-Bangla-TTS/wiki/#diphone-database-for-tts)        
    * [Publications](https://github.com/firojalam/Katha-Bangla-TTS/wiki/Publications)
    * [Credits](https://github.com/firojalam/Katha-Bangla-TTS/wiki/Credits)
  
